@@ -30,6 +30,7 @@ int main() {
     printf("Digite o numero de pontos turisticos: ");
     scanf("%d", &pontos_turisticos1);
 
+    //Ler dados para a segunda carta
     printf("\n--- Cadastro da Carta 2 ---\n");
 
     printf("Digite uma letra para o estado (De A a H): ");
